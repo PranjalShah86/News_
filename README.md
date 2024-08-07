@@ -21,7 +21,7 @@ npm install
 - Create a file named .env inside server folder
 - Add the following in the .env file -:
 
-API_KEY = <Your API KEY>
+API_KEY = insert your api key
 
 node index.js in terminal to start server 
 
