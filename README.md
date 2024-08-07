@@ -3,7 +3,7 @@
 - Open a terminal in the root directory of the project.
 
 
-cd client/
+cd client
 npm install
 npm run dev
 
@@ -13,7 +13,7 @@ npm run dev
 - Open a new Terminal in the root directory of the project
 
 
-cd server/
+cd server
 npm install
 
 
