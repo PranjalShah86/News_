@@ -3,8 +3,8 @@
 - Open a terminal in the root directory of the project.
 
 
-cd client
-npm install
+cd client then
+npm install then
 npm run dev
 
 
@@ -13,7 +13,7 @@ npm run dev
 - Open a new Terminal in the root directory of the project
 
 
-cd server
+cd server then
 npm install
 
 
@@ -23,6 +23,6 @@ npm install
 
 API_KEY = insert your api key
 
-Type "node index.js" in terminal to start server 
+Type "node index.js" in server terminal to start server 
 
 
