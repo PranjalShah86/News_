@@ -27,3 +27,5 @@ API_KEY = <Your API Key>
 node index.js in terminal to start server 
 ```
 
+# NEWS-APP
+# NEWS-APP
