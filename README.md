@@ -23,6 +23,6 @@ npm install
 
 API_KEY = insert your api key
 
-node index.js in terminal to start server 
+Type "node index.js" in terminal to start server 
 
 
